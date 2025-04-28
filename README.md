@@ -10,12 +10,19 @@
 
 <a href="https://fonts.google.com" target="_blank" rel=""> Google fonts </a>
 
+<a href="https://chromewebstore.google.com/detail/what-font-find-font/banojpgedjnmhklbggjekijlfckjodlh" target="_blank" rel=""> What font Chrome extension </a>
+
 ### colors
 
 <a href="https://www.figma.com/resource-library/color-combinations" target="_blank" rel=""> Figma 60 color combinations </a>
 
+<a href="https://chromewebstore.google.com/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp" target="_blank" rel=""> Color picker Chrome extension </a>
+
+
 
 ### UI general
+
+<a href="https://chromewebstore.google.com/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg" target="_blank" rel=""> Wappalyze Tech stack guess Chrome extension </a>
 
 <a href="https://animista.net" target="_blank" rel=""> Basic CSS Animations (or use Gspap or framer) </a>
 
