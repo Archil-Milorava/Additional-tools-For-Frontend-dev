@@ -30,6 +30,8 @@
 
 <a href="https://uiverse.io/elements" target="_blank" rel=""> Animated UI components </a>
 
+<a href="https://www.reactbits.dev/text-animations/split-text" target="_blank" rel=""> React Bits UI componenets </a>
+
 
 
 
