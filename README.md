@@ -26,6 +26,8 @@
 
 <a href="https://animista.net" target="_blank" rel=""> Basic CSS Animations (or use Gspap or framer) </a>
 
+<a href="https://animista.net](https://chromewebstore.google.com/detail/dimensions/eondmmmpfnofpakacdndcacpjnkliafi" target="_blank" rel=""> Dimensions/ measure ui </a>
+
 <a href="https://www.css-gradient.com/" target="_blank" rel=""> Css gradient genrator </a>
 
 <a href="https://uiverse.io/elements" target="_blank" rel=""> Animated UI components </a>
